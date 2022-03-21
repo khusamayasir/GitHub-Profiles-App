@@ -49,7 +49,7 @@ function addReposToCard(repos) {
 
     repos
         .sort((a, b) => b.stargazers_count - a.stargazers_count)
-        .slice(0, 10)
+        .slice(0, 30)
         .forEach((repo) => {
             const repoEl = document.createElement("a");
             repoEl.classList.add("repo");
