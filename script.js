@@ -59,7 +59,7 @@ function addReposToCard(repos) {
             repoEl.innerText = repo.name;
 
             reposEl.appendChild(repoEl);
-        });
+        })
 }
 
 form.addEventListener("submit", (e) => {
