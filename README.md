@@ -1,5 +1,5 @@
 # GitHub-Profiles-App
-A simple jacvascript app where you can search github profiles.
+A simple javascript app where you can search github profiles.
 
 You can also check here: https://github-profiles-khusamayasir.netlify.app/
 
